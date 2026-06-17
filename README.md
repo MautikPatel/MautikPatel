@@ -77,7 +77,7 @@ Email Me 👉 ✉️ **mautikpatel@outlook.com** for Collaborations, Consulting,
 ![](https://github-profile-trophy.vercel.app/?username=MautikPatel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Quote
-<img src="banner.png" alt="Believe. You're halfway there." width="100%"/>
+<img src="banner.jpg" alt="Believe. You're halfway there." width="100%"/>
 
 
 ### 🔝 Top Contributed Repo
