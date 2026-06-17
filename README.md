@@ -63,6 +63,11 @@ Email Me 👉 ✉️ **mautikpatel@outlook.com** for Collaborations, Consulting,
 ### 🌐 Domain
 ![Healthcare](https://img.shields.io/badge/Healthcare-0077B5?style=for-the-badge) ![Insurance](https://img.shields.io/badge/Insurance-1A1A2E?style=for-the-badge) ![Accounting & Finance](https://img.shields.io/badge/Accounting%20%26%20Finance%20Systems-16213E?style=for-the-badge) ![Education](https://img.shields.io/badge/Education-1A1A2E?style=for-the-badge)
 
+<!-- Snake Game Repo View -->
+<div align="Left">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=MautikPatel&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=MautikPatel&theme=default&hide_border=false)<br/>
@@ -71,8 +76,9 @@ Email Me 👉 ✉️ **mautikpatel@outlook.com** for Collaborations, Consulting,
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MautikPatel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Quote
+<img src="banner.png" alt="Believe. You're halfway there." width="100%"/>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MautikPatel&limit=5&theme=dark&combine_all_yearly_contributions=true)
