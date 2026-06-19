@@ -1,28 +1,26 @@
 # 💫 Hi 👋, I'm Mautik Patel
 
-**BI & Solution Delivery Manager | AI Transformation Leader | Analytics Strategist from India 🇮🇳**
+**AI, BI & Data Analytics & Solution Delivery Manager | AI Transformation Leader | Analytics Strategist from India 🇮🇳**
 
-Email Me 👉 ✉️ **mautikpatel@outlook.com** for Collaborations, Consulting, or Anything Else. 😊
+**Open to:** *BI Manager | Data Analytics Manager | Technical PM | Product Owner | Product Manager | Delivery Manager*
 
-- 🔭 **I'm currently working on:** AI-powered monitoring chatbot using Azure AI Foundry integrated into enterprise analytics platforms
-- 🌱 **I'm currently learning:** AI Agents | Generative AI | Azure AI Services | Microsoft Fabric | Product Strategy
+> *Most organizations have data. Few know what to do with it. Fewer still have someone who can build the systems, lead the people, and drive the decisions that turn raw information into measurable business outcomes. For the past 12 years, that has been my work and my record.*
+
+- 🏆 **I'm currently leading:** AI, BI & Data Analytics initiatives, bridging Business, Data, Technology, Product, People, and AI to transform complex business requirements into actionable insights, scalable solutions, and measurable business outcomes.
+   
+- 🔭 **I'm currently working on:** Building my own GPT-powered AI application and exploring real-time AI use cases.
+
+- 🌱 **I'm currently learning:** AI Agents & Agentic Workflows | LLM Fine-tuning & RAG | Microsoft Fabric | Product Strategy | Cloud Architecture (Azure/AWS/GCP)
+
 - 👯 **I'm looking to collaborate on:** BI & Analytics Transformation | AI Delivery Projects | Data Platform Engineering | Technology Leadership
-- 🤔 **I'm looking for help with:** Transitioning into AI Product Management & AI Leadership roles across industries
-- 💬 **Ask me about:** Enterprise BI Delivery | Agile Program Management | Data Strategy | Stakeholder Management | AI in Healthcare
-- 📫 **How to reach me:** [linkedin.com/in/mautikpatel](https://linkedin.com/in/mautikpatel) | mautikpatel@outlook.com
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I've turned 3,000+ business requirements into scalable analytics solutions and I still enjoy the puzzle every single time.
 
-## 💫 About Me
-⚡ Passionate about bridging the gap between **Business**, **Data**, **Technology**, **Product**, and **AI**.
+- 🤔 **I'm looking for help with:** Breaking into AI Product Management & AI Leadership roles across industries
 
-🔭 Leading AI, BI & Data Analytics initiatives that transform complex business requirements into actionable insights and measurable outcomes.
+- 💬 **Ask me about:** Business Intelligence, Data Analytics, Enterprise Delivery, Product Ownership, Data Strategy, Agile Leadership, Stakeholder Management, and Data-Driven Decision Making.
 
-👯 Open to collaborating on Data Platforms, Analytics Engineering, AI Solutions, Product Development, and Technology Leadership initiatives.
+- 📫 **How to reach me:** [linkedin.com/in/mautikpatel](https://linkedin.com/in/mautikpatel) | mautikpatel@outlook.com for Collaborations, Consulting, or Anything Else. 😊
 
-🌱 Currently exploring AI Agents, Generative AI, Product Strategy, Microsoft Fabric, Azure AI, and Enterprise Data Architecture.
-
-💬 Ask me about Business Intelligence, Data Analytics, Project Delivery, Product Ownership, Agile Leadership, Stakeholder Management, and Data-Driven Decision Making.
+- ⚡ **Fun fact:** I've turned 3,000+ business requirements into scalable analytics solutions and I still enjoy solving the next business problem just as much as the first.
 
 📈 **Highlights**
 
@@ -57,11 +55,12 @@ Email Me 👉 ✉️ **mautikpatel@outlook.com** for Collaborations, Consulting,
 ### 🛠️ Tools & Platforms
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white) ![Microsoft Project](https://img.shields.io/badge/Microsoft%20Project-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Smartsheet](https://img.shields.io/badge/Smartsheet-00A1E0?style=for-the-badge&logo=smartsheet&logoColor=white) ![ServiceNow](https://img.shields.io/badge/ServiceNow-00C65E?style=for-the-badge&logo=servicenow&logoColor=white) ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
+### 🌐 Domain
+![Healthcare](https://img.shields.io/badge/Healthcare-0077B5?style=for-the-badge) ![Insurance](https://img.shields.io/badge/Insurance-1A1A2E?style=for-the-badge) ![Accounting & Finance](https://img.shields.io/badge/Accounting%20%26%20Finance%20Systems-16213E?style=for-the-badge) ![Education](https://img.shields.io/badge/Education-1A1A2E?style=for-the-badge)
+
 ### 🏥 Healthcare
 ![EHR](https://img.shields.io/badge/Electronic%20Health%20Records%20(EHR)-0077B5?style=for-the-badge) ![EMR](https://img.shields.io/badge/Electronic%20Medical%20Records%20(EMR)-0077B5?style=for-the-badge) ![MLM](https://img.shields.io/badge/MLM%20Expert-1A1A2E?style=for-the-badge) ![Clinical Workflows](https://img.shields.io/badge/Clinical%20Workflows-16213E?style=for-the-badge) ![HIPAA](https://img.shields.io/badge/HIPAA-CC2927?style=for-the-badge) ![HL7 FHIR](https://img.shields.io/badge/HL7%2FFHIR-E25A1C?style=for-the-badge) ![CCDA](https://img.shields.io/badge/CCDA-0077B5?style=for-the-badge) ![CMS](https://img.shields.io/badge/CMS-1A1A2E?style=for-the-badge) ![EDI](https://img.shields.io/badge/EDI-16213E?style=for-the-badge) ![Meaningful Use](https://img.shields.io/badge/Meaningful%20Use-0077B5?style=for-the-badge)
 
-### 🌐 Domain
-![Healthcare](https://img.shields.io/badge/Healthcare-0077B5?style=for-the-badge) ![Insurance](https://img.shields.io/badge/Insurance-1A1A2E?style=for-the-badge) ![Accounting & Finance](https://img.shields.io/badge/Accounting%20%26%20Finance%20Systems-16213E?style=for-the-badge) ![Education](https://img.shields.io/badge/Education-1A1A2E?style=for-the-badge)
 
 <!-- Snake Game Repo View -->
 <div align="Left">
