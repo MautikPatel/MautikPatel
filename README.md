@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Mautik Patel
 
-**AI, BI & Data Analytics & Solution Delivery Manager | AI Transformation Leader | Analytics Strategist from India 🇮🇳**
+**AI, BI, Data Analytics & Solution Delivery Manager | AI Transformation Leader | Analytics Strategist from India 🇮🇳**
 
 **Open to:** *BI Manager | Data Analytics Manager | Technical PM | Product Owner | Product Manager | Delivery Manager*
 
