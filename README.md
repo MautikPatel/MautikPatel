@@ -1,22 +1,22 @@
 # 💫 Hi 👋, I'm Mautik Patel
 
-**AI, BI, Data Analytics & Solution Delivery Manager | AI Transformation Leader | Analytics Strategist from India 🇮🇳**
+**AI, Business Intelligence & Data Analytics Leader | Product & Delivery Strategist | AI Transformation Leader**
 
-**Open to:** *BI Manager | Data Analytics Manager | Technical PM | Product Owner | Product Manager | Delivery Manager*
+**Open to:** *BI Manager | Data Analytics Manager | Technical Project Manager | Product Manager | Product Owner | Delivery Manager*
 
 > *Most organizations have data. Few know what to do with it. Fewer still have someone who can build the systems, lead the people, and drive the decisions that turn raw information into measurable business outcomes. For the past 12 years, that has been my work and my record.*
 
-- 🏆 **I'm currently leading:** AI, BI & Data Analytics initiatives, bridging Business, Data, Technology, Product, People, and AI to transform complex business requirements into actionable insights, scalable solutions, and measurable business outcomes.
+- 🏆 **I'm currently leading:** Artificial Intelligence (AI), Business Intelligence (BI), and Data Analytics initiatives, helping organizations bridge business strategy, data, technology, products, and people to deliver measurable business outcomes.
    
 - 🔭 **I'm currently working on:** Building my own GPT-powered AI application and exploring real-time AI use cases.
 
-- 🌱 **I'm currently learning:** AI Agents & Agentic Workflows | LLM Fine-tuning & RAG | Microsoft Fabric | Product Strategy | Cloud Architecture (Azure/AWS/GCP)
+- 🌱 **I'm currently learning:** AI Agents & Agentic AI | Retrieval-Augmented Generation (RAG) | Microsoft Fabric | Product Strategy | Cloud Architecture (Azure, AWS & GCP)
 
-- 👯 **I'm looking to collaborate on:** BI & Analytics Transformation | AI Delivery Projects | Data Platform Engineering | Technology Leadership
+- 👯 **I'm looking to collaborate on:** Enterprise AI | Business Intelligence | Data Analytics | Product Management | Technology Leadership
 
 - 🤔 **I'm looking for help with:** Breaking into AI Product Management & AI Leadership roles across industries
 
-- 💬 **Ask me about:** Business Intelligence, Data Analytics, Enterprise Delivery, Product Ownership, Data Strategy, Agile Leadership, Stakeholder Management, and Data-Driven Decision Making.
+- 💬 **Ask me about:** Artificial Intelligence (AI), Business Intelligence, Data Analytics, Product Management, Enterprise Delivery, Agile Leadership, Stakeholder Management, and Data Strategy.
 
 - 📫 **How to reach me:** [linkedin.com/in/mautikpatel](https://linkedin.com/in/mautikpatel) | mautikpatel@outlook.com for Collaborations, Consulting, or Anything Else. 😊
 
@@ -50,7 +50,9 @@
 ![Advanced SQL](https://img.shields.io/badge/Advanced%20SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SSAS](https://img.shields.io/badge/SSAS-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Alteryx](https://img.shields.io/badge/Alteryx-1384C8?style=for-the-badge&logo=alteryx&logoColor=white) ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling%20%26%20Warehousing-1A1A2E?style=for-the-badge) ![Data Lake](https://img.shields.io/badge/Data%20Lake%20Architecture-16213E?style=for-the-badge) ![Data Governance](https://img.shields.io/badge/Data%20Governance-1A1A2E?style=for-the-badge)
 
 ### ☁️ Cloud & AI
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) ![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs%20%26%20Web%20Services-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![AI Applications](https://img.shields.io/badge/AI%20Applications-412991?style=for-the-badge&logo=openai&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B35?style=for-the-badge) ![LLM Integration](https://img.shields.io/badge/LLM%20Integration-412991?style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) ![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs%20%26%20Web%20Services-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Artificial Intelligence (AI)](https://img.shields.io/badge/AI%20Applications-412991?style=for-the-badge&logo=openai&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B35?style=for-the-badge) ![LLM Integration](https://img.shields.io/badge/LLM%20Integration-412991?style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white) ![Microsoft Project](https://img.shields.io/badge/Microsoft%20Project-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Smartsheet](https://img.shields.io/badge/Smartsheet-00A1E0?style=for-the-badge&logo=smartsheet&logoColor=white) ![ServiceNow](https://img.shields.io/badge/ServiceNow-00C65E?style=for-the-badge&logo=servicenow&logoColor=white) ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
