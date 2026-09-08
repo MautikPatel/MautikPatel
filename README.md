@@ -40,6 +40,7 @@ Explore my portfolio featuring AI applications, Business Intelligence dashboards
 | Executive Decisions Influenced | 25+ through KPI-driven analytics & insights |
 
 # 🏅 Certifications
+[![AI Transformation Leader](https://img.shields.io/badge/Microsoft%20Certified%3A%20AI%20Transformation%20Leader%20(AB--731)-0078D4?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-gb/users/mautikpatel-3404/credentials/f9f8c6b7cc1a4e73?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 [![PRINCE2](https://img.shields.io/badge/PRINCE2%C2%AE-8A2BE2?logo=axelos&logoColor=white)](https://drive.google.com/file/d/12bzo5GhWWZQzZbQMxQ4XKWs7eAcgymfr/view)
 [![CSM](https://img.shields.io/badge/CSM%C2%AE-0052CC?logo=scrumalliance&logoColor=white)](https://bcert.me/bc/html/show-badge.html?b=zbzophyk)
 [![ITIL 4](https://img.shields.io/badge/ITIL%C2%AE%204-6A0DAD?logo=axelos&logoColor=white)](https://drive.google.com/file/d/1ns7JFnN3LtRStcYykEkCan2b7xt0phQd/view)
